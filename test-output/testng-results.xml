@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-25T21:58:18 EDT" name="Default suite" finished-at="2024-10-25T21:58:27 EDT" duration-ms="9516">
+    <groups>
+    </groups>
+    <test started-at="2024-10-25T21:58:18 EDT" name="Default test" finished-at="2024-10-25T21:58:27 EDT" duration-ms="9516">
+      <class name="Salesforce_POM.Ten_Salesforce_POMTests">
+        <test-method is-config="true" signature="setUpBeforeMethod()[pri:0, instance:Salesforce_POM.Ten_Salesforce_POMTests@613a8ee1]" started-at="2024-10-25T21:58:18 EDT" name="setUpBeforeMethod" finished-at="2024-10-25T21:58:20 EDT" duration-ms="2501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="TC1()[pri:0, instance:Salesforce_POM.Ten_Salesforce_POMTests@613a8ee1]" started-at="2024-10-25T21:58:20 EDT" name="TC1" finished-at="2024-10-25T21:58:27 EDT" duration-ms="6515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+        <test-method is-config="true" signature="tearDownAfterMethod()[pri:0, instance:Salesforce_POM.Ten_Salesforce_POMTests@613a8ee1]" started-at="2024-10-25T21:58:27 EDT" name="tearDownAfterMethod" finished-at="2024-10-25T21:58:27 EDT" duration-ms="443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterMethod -->
+      </class> <!-- Salesforce_POM.Ten_Salesforce_POMTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
