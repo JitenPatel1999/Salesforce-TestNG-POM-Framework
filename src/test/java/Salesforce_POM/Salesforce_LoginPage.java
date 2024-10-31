@@ -9,7 +9,7 @@ public class Salesforce_LoginPage extends BasePage{
 	@FindBy(id="username") WebElement username;
 	@FindBy(id="password") WebElement password;
 	@FindBy(id="Login") WebElement login;
-	@FindBy(xpath="\"//*[@id=\\\"rememberUn\\\"]\"") WebElement remember;
+	@FindBy(xpath="//*[@id=\"rememberUn\"]") WebElement remember;
 	@FindBy(id="forgot_password_link") WebElement forgot;
 	public Salesforce_LoginPage(WebDriver driver) {
 		super(driver);
